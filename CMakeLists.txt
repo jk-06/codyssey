@@ -14,4 +14,6 @@ include_directories(include)
 
 add_executable(trophy_cli
     src/main.cpp
+    src/solution.cpp
+    src/problem.cpp
 )
